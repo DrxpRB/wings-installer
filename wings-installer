@@ -11,7 +11,7 @@ set -e
 
 export GITHUB_SOURCE="v1.1.0"
 export SCRIPT_RELEASE="v1.1.0"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/DrxpRB/wings-installer/main/wings-installer.sh"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/DrxpRB/wings-installer/refs/heads/main/wings-installer"
 
 LOG_PATH="/var/log/drxp-wings-installer.log"
 
